@@ -7,15 +7,14 @@ import { getAnalytics } from "firebase/analytics";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC7bpcEoXn_yT1E68Kg4fBsBqi43VGstiY",
-  authDomain: "arduino-bf5e9.firebaseapp.com",
+  apiKey: "AIzaSyCoeBCOFuShXrL__SU-JqPSFMyqM9zJ8mM",
+  authDomain: "visitor-counter-82f78.firebaseapp.com",
   databaseURL:
-    "https://arduino-bf5e9-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "arduino-bf5e9",
-  storageBucket: "arduino-bf5e9.firebasestorage.app",
-  messagingSenderId: "279085636608",
-  appId: "1:279085636608:web:3568530d84661a7f428ce5",
-  measurementId: "G-72JYKGJNW8",
+    "https://visitor-counter-82f78-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "visitor-counter-82f78",
+  storageBucket: "visitor-counter-82f78.firebasestorage.app",
+  messagingSenderId: "708222504895",
+  appId: "1:708222504895:web:8d331451de1cb26145db0a",
 };
 
 // Initialize Firebase
